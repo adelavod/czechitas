@@ -7,8 +7,8 @@ let vek=prompt("Kolik vam je?");
 let doba=(18-vek);
 
 if (vek >= 18) {
-  console.log ("Vaše jméno je "+jmeno+" je Vám "+vek+" let a tak máte právo řídit auto.")
+  console.log ("Vaše jméno je "+jmeno+" je Vám "+vek+" let, a tak máte právo řídit auto.")
 }
 else {
-  console.log ("Vaše jméno je "+jmeno+", je Vám "+vek+" let a tak musíte počkat ještě "+doba+", než budete moci řídit auto.")
+  console.log ("Vaše jméno je "+jmeno+", je Vám "+vek+" let, a tak musíte počkat ještě "+doba+" let, než budete moci řídit auto.")
 }
