@@ -5,5 +5,5 @@ import './style.css';
 const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
-import './ukol5';
+import './ukol6';
 
